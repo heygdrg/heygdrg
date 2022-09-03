@@ -2,7 +2,7 @@
 I made a Python python raid bot ([raidnuker](https://github.com/heygdrg/)). I'm a developper in Python, and curretly learning C. I'm 16 yo and my discord is [!"BKS#1958](https://discord.com/users/749504447989940235).
 
 ## My frameworks, tools and IDE
-![](https://skillicons.dev/icons?i=py,github,vscode,html,js,c,lua,visualstudio,css)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=sufurion)
 
 ## My GitHub stats
 ![](https://custom-icon-badges.herokuapp.com/github/followers/CSM-BlueRed?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)

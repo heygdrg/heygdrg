@@ -17,7 +17,7 @@ I made a Python python raid bot ([raidnuker](https://github.com/heygdrg/)). I'm 
 ```python
 from earth import Human
 from internet import open_link
-# >> github.com/CSM-BlueRed <<
+# >> <<
 ```
 ```c
 Human * "BKS";
@@ -26,7 +26,7 @@ BKS.age = 16;
 ```
 ```js
 BKS.on_dev((language) => {
-    console.log(`Hi, im BlueRed and I currently code in ${language}!`);
+    console.log(`Hi, im BKS and I currently code in ${language}!`);
 });
 ```
 ```lua

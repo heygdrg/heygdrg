@@ -3,7 +3,7 @@ I made a Python python raid bot ([raidnuker](https://github.com/heygdrg/)). I'm 
 
 ## My frameworks, tools and IDE
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=sufurion&theme=midnight-purple&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=palion&theme=midnight-purple&hide_border=true)
 ## My GitHub stats
 ![](https://custom-icon-badges.herokuapp.com/github/followers/CSM-BlueRed?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)
 ![](https://custom-icon-badges.herokuapp.com/github/stars/CSM-BlueRed?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Stars&logoColor=white)

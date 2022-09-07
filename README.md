@@ -1,4 +1,4 @@
-# <p align="center">🏮 cbos's github 🏮</p>
+# <p align="center">🏮 heygdrg github 🏮</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/07/18/ba/0718ba40484fd71786d8e655542d2f57.jpg" />
@@ -37,8 +37,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/>
 </p>
 ## My frameworks, tools and IDE
-![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=sufurion&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=palion&theme=midnight-purple&hide_border=true)
+(https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=sufurion&theme=midnight-purple&hide_border=true)
+(https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=palion&theme=midnight-purple&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=CSM-BlueRed&theme=midnight-purple&hide_border=true&border_radius=0)
 

@@ -32,8 +32,6 @@
 
 # <p align="center"> My languages </p>
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" width="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/>
 </p>
 

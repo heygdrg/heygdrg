@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/>
 </p>
-## My frameworks, tools and IDE
+
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=sufurion&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=palion&theme=midnight-purple&hide_border=true)
 

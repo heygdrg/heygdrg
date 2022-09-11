@@ -1,4 +1,4 @@
-# <p align="center">🏮 heygdrg github 🏮</p>
+# <p align="center">🏮 Rattlers github 🏮</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/07/18/ba/0718ba40484fd71786d8e655542d2f57.jpg" />

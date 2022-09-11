@@ -35,9 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=wp-grabber&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=palion&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=webhook-nuker&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Ares&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Amnesia&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=chaos&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Ghoul&theme=midnight-purple&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=rattlers&theme=midnight-purple&hide_border=true&border_radius=0)

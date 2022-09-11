@@ -38,6 +38,7 @@
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=wp-grabber&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=palion&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=webhook-nuker&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Ghoul&theme=midnight-purple&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=rattlers&theme=midnight-purple&hide_border=true&border_radius=0)
 

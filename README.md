@@ -42,7 +42,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=rattlers&theme=midnight-purple&hide_border=true&border_radius=0)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSM-BlueRed&theme=midnight-purple&hide_border=true&border_radius=0&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lactua&layout=compact&theme=midnight-purple)
 
 ## A multi-languages code
 

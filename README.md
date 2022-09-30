@@ -39,6 +39,8 @@
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Amnesia&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=chaos&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Ghoul&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Omega&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Spyse&theme=midnight-purple&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=rattlers&theme=midnight-purple&hide_border=true&border_radius=0)
 

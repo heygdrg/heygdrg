@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/736x/07/18/ba/0718ba40484fd71786d8e655542d2f57.jpg" />
 </p>
 
-# <p align="center">Hey I am a 16 year old developer (I am learning anyway). I am passionate about:
+# <p align="center">Hey I am a 19 year old developer (I am learning anyway). I am passionate about:
 </p>
 <p align="center">🥊 fishing 💪,</p>
 <p align="center">📈📉 ICT trading (not a game don't be stupid), </p>

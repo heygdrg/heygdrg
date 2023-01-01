@@ -1,4 +1,4 @@
-<img src="![d](https://user-images.githubusercontent.com/94129991/210168085-2fd3e816-0be5-41f0-95b9-9526e0608b3d.jpg" width="500" align="right">
+<img src="![](https://user-images.githubusercontent.com/94129991/210168085-2fd3e816-0be5-41f0-95b9-9526e0608b3d.jpg" width="500" align="right">
 
 # Rattler's
 

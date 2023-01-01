@@ -1,70 +1,30 @@
-# <p align="center">🏮 Rattlers github 🏮</p>
+<img src="![d](https://user-images.githubusercontent.com/94129991/210168085-2fd3e816-0be5-41f0-95b9-9526e0608b3d.jpg" width="500" align="right">
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/07/18/ba/0718ba40484fd71786d8e655542d2f57.jpg" />
-</p>
+# Rattler's
 
-# <p align="center">Hey I am a 19 year old developer (I am learning anyway). I am passionate about:
-</p>
-<p align="center">🥊 fishing 💪,</p>
-<p align="center">📈📉 ICT trading (not a game don't be stupid), </p>
-<p align="center">🌪️ crypto currency,</p>
-<p align="center">👨‍💻 and code. I am currently learning c and c++.</p>
-<p align="center">🌀 If you like what I do, you can make a donation so I can buy a real pc : </p>
-<p align="center">☕ You can send ethers here : 0xe780E9ebb1477e927AA0409a06B25Fa37E251CC8</p>
-<p align="center">📫 If you have an idea for a project you can contact me here : BKS#1958</p>
+Hi, I'm a little dev on python and soon c+, hope you will enjoy my work ! Here's a link to my stealer (I will soon add a token graber in it ) [Toxic Stealer](https://github.com/heygdrg/Toxic-stealer).
+If you want to make me some feedback juste contact me on discord [by my profile](https://discord.com/users/749504447989940235)
 
+![](https://custom-icon-badges.herokuapp.com/github/followers/heygdrg?color=3030FF&labelColor=0000D0&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)
 
+![](https://custom-icon-badges.herokuapp.com/github/stars/heygdrg?color=FF1010&labelColor=F00000&style=for-the-badge&logo=person-add&label=Stars&logoColor=white)
 
-<p align="center">
-  <img src="https://pbs.twimg.com/media/EnLHDYBVgAQNLAt?format=jpg&name=large" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=heygdrg&theme=midnight-purple&hide_border=true&border_radius=0)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heygdrg&layout=compact&theme=midnight-purple)
+
+![](https://skillicons.dev/icons?i=c,github,py,vscode)
 
 
-
-# <p align="center">🌜 My visitors 🌛</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/cbospy/count.svg" />
-</p>
+<hr>
 
 
+# My Best projects
 
-
-# <p align="center"> My languages </p>
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/>
-</p>
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Ares&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Amnesia&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=chaos&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Ghoul&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Omega&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Mag&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Zehef&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Spoofize&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Pfizer&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Spyse&theme=midnight-purple&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api?username=rattlers&theme=midnight-purple&hide_border=true&border_radius=0)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lactua&layout=compact&theme=midnight-purple)
-
-## A multi-languages code
-
-```python
-from earth import Human
-from internet import open_link
-# >> <<
-```
-```c
-Human * "BKS";
-BKS.name = "BKS";
-BKS.age = 16;
-```
-```js
-BKS.on_dev((language) => {
-    console.log(`Hi, im BKS and I currently code in ${language}!`);
-});
-```
-```lua
-function join()
-    open_link("discord.com/users/749504447989940235")
-end
-```
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=Toxic-stealer&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=heygdrg&repo=--&theme=midnight-purple&hide_border=true)
